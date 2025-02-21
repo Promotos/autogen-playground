@@ -1,1 +1,2 @@
 .venv/*
+train_local_llm/tinyshakespeare.txt
